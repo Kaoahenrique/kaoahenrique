@@ -18,11 +18,12 @@
 ---
 
 ## 📌 Projetos em destaque
-- 📊 Automação de relatórios em Excel  
-- 🗄️ Consultas SQL para análise de dados  
-- 🌐 Testes de rede e suporte de acessos  
+- 📊 **Automação de relatórios em Excel** – Criação de planilhas inteligentes e macros para otimização de rotinas administrativas e financeiras.  
+- 🗄️ **Consultas SQL para análise de dados** – Extração, tratamento e organização de informações para apoiar decisões estratégicas.  
+- 🌐 **Testes de rede e suporte de acessos** – Apoio em infraestrutura de TI e resolução de problemas internos.
 
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINKEDIN-AQUI)
+- [LinkedIn](https://www.linkedin.com/in/kaoahenrique)  
+- [GitHub](https://github.com/kaoahenrique)  
